@@ -10,31 +10,31 @@
 	<string>BouncingBalls</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FD1C5C066EF55F88C65D40F08D0EEB669EAFE6F3</key>
-		<string>https://github.com/aluong-yammer/BouncingBalls</string>
+		<key>4457BE8DD914CACD5F14BC02BCD2C6CD3215628D</key>
+		<string>https://github.com/aluong-yammer/BlackGirlsCode.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BouncingBalls.xcodeproj</string>
+	<string>Student Projects/Ebeidebheki Oiyemhonlan/BouncingBalls.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FD1C5C066EF55F88C65D40F08D0EEB669EAFE6F3</key>
-		<string>../..</string>
+		<key>4457BE8DD914CACD5F14BC02BCD2C6CD3215628D</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/aluong-yammer/BouncingBalls</string>
+	<string>https://github.com/aluong-yammer/BlackGirlsCode.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FD1C5C066EF55F88C65D40F08D0EEB669EAFE6F3</string>
+	<string>4457BE8DD914CACD5F14BC02BCD2C6CD3215628D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FD1C5C066EF55F88C65D40F08D0EEB669EAFE6F3</string>
+			<string>4457BE8DD914CACD5F14BC02BCD2C6CD3215628D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>BB</string>
+			<string>BlackGirlsCode</string>
 		</dict>
 	</array>
 </dict>
