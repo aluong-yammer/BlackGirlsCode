@@ -1,0 +1,59 @@
+Mobile Apps [19 students]
+Alda Luong [LEAD]
+Ann Robson [LEAD]
+Dave Weston 
+Doug Kent 
+Nikhil Karnik 
+Keith Lazuka 
+John Setzer 
+Brendan McKeon 
+
+Agenda for the Day:
+10-10:30am Girls Arrive at Yammer (95 confirmed)
+10:30-10:40 Kristian Welcome Speech
+10:40-11 Adam Pisoni Motivational Speech 
+11-12 Break out into discipline groups, introduction into discipline code, set up and discuss project in groups
+12-1 Lunch!  Even if you're not signed up to be in a discipline group, come eat with the girls and get to know them.  There will be games and an office tour, this is a great way to get involved!
+1-2 Learning the basics and diving into projects
+2-2:45 Diversity and Inclusion Panel (Cindy, Ryan, Andre, & Armando)
+2:45-3 Snack break and conclusion of people Bingo game
+3-3:45 Finish up projects in discipline groups
+3:45-4:20 Group presentations and awards
+4:20-4:30 Closing speech (Nate)
+
+
+Quick Intros from all engineers. [Everyone]
+• Some ideas to include: 
+	- name
+	- which team you’re on
+	- what you do
+	- why do you think mobile is cool
+	- name your favorite app
+	- show app you’ve built
+
+What makes mobile interesting/cool? [Ann]
+* Ask students what they think is cool about mobile. Also highlight the points below:
+
+• Portability. You can bring your phone ANYWHERE and do cool stuff with it.
+• Gestures! Some iOS gestures include tap, touch, rotation, pinch, or swipe. You can’t get this from the web. Examples: games, like Cut the Rope.
+• Easy access to the camera (the best camera is always the one you have with you!) You can take photos and easily interact with it. Examples: Instagram.
+• GPS. You can use your location to do a lot of interesting and useful things. Example: Maps, Yelp.
+• Accelerometer. Allows the app to detect motion. Example: on the iPhone you can shake the phone to undo a typing error. 
+
+Intro to the app we are going to build: “Bouncing Balls”. [Ann]
+Show the main features:
+• create new ball by tapping on the screen
+• move ball by panning the image
+• gravity will make the ball fall and bounce like it would in the real world.
+• remove all bubbles by shaking the phone.
+
+Introduction to the Xcode app and code. [Alda]
+• Language is Objective-C.
+• Press Play button to compile and run the code.
+• Press the Stop button to stop running the code.
+• Classes and methods
+
+Work on the challenges. [Alda]
+For the challenges, we’ll show the code and have them type it out (or possibly have the code there, but commented out?) Then they’ll run the app on the devices to see the feature in action. 
+
+Wrap up. What can we do to make the app better? What app would the girls want to work on next? [Ann]
